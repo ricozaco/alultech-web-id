@@ -1,0 +1,6 @@
+{
+  "name": "Alul Tech — Studio Aplikasi Offline-First",
+  "description": "Portal resmi ekosistem aplikasi Android offline-first dan pusat kebijakan privasi oleh Alul Tech (AHZ Dev).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
